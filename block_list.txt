@@ -1,8 +1,13 @@
 127.0.0.1 verify-this-block-list-is-included.com
 127.0.0.1 sdk.adincube.com
 127.0.0.1 api.amplitude.com
+127.0.0.1 app-measurement.com
+127.0.0.1 events.appsflyer.com
+127.0.0.1 t.appsflyer.com
 127.0.0.1 track.appsflyer.com
 127.0.0.1 md-a-c.apptimize.com
+127.0.0.1 c.betrad.com
+127.0.0.1 l.betrad.com
 127.0.0.1 api.branch.io
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 api.crittercism.com
@@ -11,6 +16,7 @@
 127.0.0.1 graph.facebook.com
 127.0.0.1 s-static.ak.facebook.com
 127.0.0.1 data.flurry.com
+127.0.0.1 www.googleadservices.com
 127.0.0.1 ssl.googleanalytics.com
 127.0.0.1 www.googleanalytics.com
 127.0.0.1 sdk.hockeyapp.net
@@ -20,6 +26,8 @@
 127.0.0.1 ads.mopub.com
 127.0.0.1 ads.nexage.com
 127.0.0.1 onesignal.com
+127.0.0.1 b.scorecardresearch.com
 127.0.0.1 platform.twitter.com
+127.0.0.1 stats.unity3d.com
 127.0.0.1 bootstrap.upsight-api.com
 127.0.0.1 device-api.urbanairship.com
