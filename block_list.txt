@@ -1,5 +1,6 @@
 127.0.0.1 verify-this-block-list-is-included.com
 127.0.0.1 sdk.adincube.com
+127.0.0.1 app.adjust.com
 127.0.0.1 api.amplitude.com
 127.0.0.1 app-measurement.com
 127.0.0.1 events.appsflyer.com
