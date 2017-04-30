@@ -28,6 +28,8 @@
 127.0.0.1 ads.nexage.com
 127.0.0.1 onesignal.com
 127.0.0.1 b.scorecardresearch.com
+127.0.0.1 init.startappexchange.com
+127.0.0.1 www.startappexchange.com
 127.0.0.1 platform.twitter.com
 127.0.0.1 stats.unity3d.com
 127.0.0.1 bootstrap.upsight-api.com
