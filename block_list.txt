@@ -26,6 +26,7 @@
 127.0.0.1 decide.mixpanel.com
 127.0.0.1 ads.mopub.com
 127.0.0.1 ads.nexage.com
+127.0.0.1 api.oneaudience.com
 127.0.0.1 onesignal.com
 127.0.0.1 b.scorecardresearch.com
 127.0.0.1 init.startappexchange.com
