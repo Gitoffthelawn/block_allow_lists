@@ -22,6 +22,8 @@
 127.0.0.1 www.googleadservices.com
 127.0.0.1 ssl.googleanalytics.com
 127.0.0.1 www.googleanalytics.com
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 www.google-analytics.com
 127.0.0.1 sdk.hockeyapp.net
 127.0.0.1 api.geo.kontagent.net
 127.0.0.1 api.mixpanel.com
