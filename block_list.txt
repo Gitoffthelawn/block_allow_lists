@@ -10,6 +10,8 @@
 127.0.0.1 c.betrad.com
 127.0.0.1 l.betrad.com
 127.0.0.1 api.branch.io
+127.0.0.1 e.crashlytics.com
+127.0.0.1 reports.crashlytics.com
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 api.crittercism.com
 127.0.0.1 googleads.g.doubleclick.net
