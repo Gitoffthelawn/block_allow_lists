@@ -18,6 +18,7 @@
 0.0.0.0 connect.facebook.net
 0.0.0.0 graph.facebook.com
 0.0.0.0 s-static.ak.facebook.com
+0.0.0.0 a.fiksu.com
 0.0.0.0 data.flurry.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 ssl.googleanalytics.com
@@ -29,6 +30,8 @@
 0.0.0.0 localads.maps.me
 0.0.0.0 api.mixpanel.com
 0.0.0.0 decide.mixpanel.com
+0.0.0.0 cdn-settings.segment.com
+0.0.0.0 mobile-service.segment.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 ads.nexage.com
 0.0.0.0 api.oneaudience.com
