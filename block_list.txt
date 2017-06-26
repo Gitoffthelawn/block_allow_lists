@@ -19,6 +19,7 @@
 0.0.0.0 graph.facebook.com
 0.0.0.0 s-static.ak.facebook.com
 0.0.0.0 a.fiksu.com
+0.0.0.0 sdk.fiksu.com
 0.0.0.0 data.flurry.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 ssl.googleanalytics.com
