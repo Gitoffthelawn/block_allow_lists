@@ -28,6 +28,8 @@
 0.0.0.0 www.google-analytics.com
 0.0.0.0 sdk.hockeyapp.net
 0.0.0.0 api.geo.kontagent.net
+0.0.0.0 manifest.localytics.com
+0.0.0.0 profile.localytics.com
 0.0.0.0 localads.maps.me
 0.0.0.0 api.mixpanel.com
 0.0.0.0 decide.mixpanel.com
