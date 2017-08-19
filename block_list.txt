@@ -10,6 +10,11 @@
 0.0.0.0 c.betrad.com
 0.0.0.0 l.betrad.com
 0.0.0.0 api.branch.io
+0.0.0.0 cookie-script.com
+0.0.0.0 cookieassistant.com
+0.0.0.0 cookieconsent.com
+0.0.0.0 cookieq.com
+0.0.0.0 cookiereports.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 settings.crashlytics.com
