@@ -44,7 +44,7 @@
 0.0.0.0 ads.nexage.com
 0.0.0.0 api.oneaudience.com
 0.0.0.0 onesignal.com
-0.0.0.0 b.scorecardresearch.com
+0.0.0.0 scorecardresearch.com
 0.0.0.0 init.startappexchange.com
 0.0.0.0 www.startappexchange.com
 0.0.0.0 platform.twitter.com
