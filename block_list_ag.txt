@@ -43,7 +43,7 @@
 ||ads.nexage.com^
 ||api.oneaudience.com^
 ||onesignal.com^
-||b.scorecardresearch.com^
+||scorecardresearch.com^
 ||init.startappexchange.com^
 ||www.startappexchange.com^
 ||platform.twitter.com^
