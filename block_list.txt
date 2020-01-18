@@ -51,3 +51,5 @@
 0.0.0.0 stats.unity3d.com
 0.0.0.0 bootstrap.upsight-api.com
 0.0.0.0 device-api.urbanairship.com
+0.0.0.0 360safe.com
+0.0.0.0 360.cn
