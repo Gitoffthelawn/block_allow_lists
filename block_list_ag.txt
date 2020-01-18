@@ -50,3 +50,5 @@
 ||stats.unity3d.com^
 ||bootstrap.upsight-api.com^
 ||device-api.urbanairship.com^
+||360safe.com
+||360.cn
